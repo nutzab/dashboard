@@ -1,0 +1,64 @@
+#main {
+        background-color: #525797;
+
+
+}
+
+#CalendarWindnow {
+        border-radius: 20px;
+
+
+}
+
+
+#sidebar {
+        background-color: rgba(255,255,255, 120);
+        border-radius: 20px;
+}
+#label1 {
+        color: rgb(18, 13, 32);
+        font-size: 20px;
+        font-weight: bold;
+}
+#btn {
+        background-color: rgb(201, 180, 237);
+        color: black;
+        font-size: 20px;
+        padding: 10px;
+        border: none;
+        border-radius: 15px;
+}
+#btn:hover {
+        background-color: rgb(136, 136, 159);
+}
+#btn:checked {
+        background-color: rgb(65, 41, 120);
+        color: white;
+}
+#DashboardWindow {
+        background-color: #2B5C9C;
+}
+#right_panel {
+        background-color: #ffffff;
+        border-radius: 20px;
+}
+
+#widget1, #widget2, #widget3, #widget4, #widget5, #widget6 {
+        background-color: #e4ddf4;
+        border-radius: 15px;
+}
+
+#networth_label, #MI_label, #exp_label, #savings_label, #bar_label, #t_label, #s_label, #bp_label {
+        background-color: transparent;
+        color: rgba(26, 21, 38, 150);
+        font-size: 16px;
+        font-weight: bold;
+}
+
+#networth, #balance, #expenses, #savings {
+        background-color: transparent;
+        color:rgb(26, 21, 38);
+        font-size: 40px;
+        font-weight: bold;
+
+}
